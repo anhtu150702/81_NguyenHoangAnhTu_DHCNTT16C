@@ -1,0 +1,41 @@
+
+*{
+    margin: auto;
+}
+.wrapper{
+    height: 600px;
+    width: 1089px;
+    background-color: black ;
+    text-align: center;
+}
+header{
+    height: 200px;
+    width: 100%;
+    background-color: red;
+}
+nav{
+    height: 550px;
+    width: 20%;
+    background-color: blue;
+    float: left;
+}
+.content{
+    height: 550px;
+    width: 80%;
+    background-color: green;
+    float: left;
+}
+.content section{
+    height: 47%;
+    width: auto;
+    background-color: yellow;
+    float: bottom;
+    margin: 10px 20px 10px 10px;
+}
+.content aside{
+    height: 47%;
+    width: auto;
+    background-color: aqua ;
+    float: bottom;
+    margin: 10px 20px 10px 10px;
+}
